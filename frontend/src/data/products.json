@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Leather Handbag",
+    "category": "fashion",
+    "price": 299.99,
+    "rating": 4.8,
+    "reviews": 234,
+    "description": "Handcrafted Italian leather handbag with elegant design and premium finish. Features multiple compartments and adjustable strap.",
+    "features": ["Genuine Italian Leather", "Multiple Compartments", "Adjustable Strap", "Gold Hardware"],
+    "images": [
+      "https://images.unsplash.com/photo-1589363358751-ab05797e5629?w=800",
+      "https://images.unsplash.com/photo-1589363358751-ab05797e5629?w=800&fit=crop&crop=left",
+      "https://images.unsplash.com/photo-1589363358751-ab05797e5629?w=800&fit=crop&crop=right"
+    ],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": 2,
+    "name": "Luxury Accessories Set",
+    "category": "fashion",
+    "price": 189.99,
+    "rating": 4.7,
+    "reviews": 156,
+    "description": "Complete luxury accessories set including designer heels and premium leather goods. Perfect for special occasions.",
+    "features": ["Designer Quality", "Premium Materials", "Complete Set", "Gift Ready"],
+    "images": [
+      "https://images.unsplash.com/photo-1591884807235-1dc6c2e148b1?w=800",
+      "https://images.unsplash.com/photo-1591884807235-1dc6c2e148b1?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1591884807235-1dc6c2e148b1?w=800"
+    ],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": 3,
+    "name": "Elegant Jewelry Collection",
+    "category": "fashion",
+    "price": 449.99,
+    "rating": 4.9,
+    "reviews": 312,
+    "description": "Exquisite jewelry collection featuring timeless pieces crafted with precision. Each piece tells a story of elegance.",
+    "features": ["Sterling Silver", "Handcrafted", "Gift Box Included", "Lifetime Warranty"],
+    "images": [
+      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?w=800",
+      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?w=800"
+    ],
+    "inStock": true,
+    "trending": false
+  },
+  {
+    "id": 4,
+    "name": "Premium Beauty Collection",
+    "category": "beauty",
+    "price": 129.99,
+    "rating": 4.6,
+    "reviews": 189,
+    "description": "Curated collection of premium beauty products for your daily skincare routine. Natural ingredients, proven results.",
+    "features": ["Natural Ingredients", "Dermatologist Tested", "Cruelty Free", "Eco Packaging"],
+    "images": [
+      "https://images.unsplash.com/photo-1598528738936-c50861cc75a9?w=800",
+      "https://images.unsplash.com/photo-1598528738936-c50861cc75a9?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1598528738936-c50861cc75a9?w=800"
+    ],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": 5,
+    "name": "Luxury Skincare Set",
+    "category": "beauty",
+    "price": 159.99,
+    "rating": 4.8,
+    "reviews": 267,
+    "description": "Premium skincare set with advanced formulas for radiant, youthful skin. Complete morning and evening routine.",
+    "features": ["Anti-Aging Formula", "Hypoallergenic", "Spa Quality", "Visible Results"],
+    "images": [
+      "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?w=800",
+      "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1580870069867-74c57ee1bb07?w=800"
+    ],
+    "inStock": true,
+    "trending": false
+  },
+  {
+    "id": 6,
+    "name": "Rose Gold Makeup Brush Set",
+    "category": "beauty",
+    "price": 89.99,
+    "rating": 4.7,
+    "reviews": 198,
+    "description": "Professional makeup brush set in stunning rose gold finish. Premium synthetic bristles for flawless application.",
+    "features": ["Synthetic Bristles", "Rose Gold Finish", "Professional Quality", "Travel Case"],
+    "images": [
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800"
+    ],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": 7,
+    "name": "Luxury Scented Candle",
+    "category": "lifestyle",
+    "price": 49.99,
+    "rating": 4.5,
+    "reviews": 143,
+    "description": "Hand-poured luxury candle with premium fragrance oils. Creates a warm, inviting ambiance in any space.",
+    "features": ["Natural Soy Wax", "Long Burning", "Premium Fragrance", "Elegant Glass Jar"],
+    "images": [
+      "https://images.pexels.com/photos/34629954/pexels-photo-34629954.jpeg?w=800",
+      "https://images.pexels.com/photos/34629954/pexels-photo-34629954.jpeg?w=800&fit=crop",
+      "https://images.pexels.com/photos/34629954/pexels-photo-34629954.jpeg?w=800"
+    ],
+    "inStock": true,
+    "trending": false
+  },
+  {
+    "id": 8,
+    "name": "Fashion Store Collection",
+    "category": "fashion",
+    "price": 349.99,
+    "rating": 4.9,
+    "reviews": 278,
+    "description": "Curated fashion collection featuring the latest trends. Premium quality fabrics and timeless designs.",
+    "features": ["Designer Quality", "Limited Edition", "Premium Fabrics", "Sustainable"],
+    "images": [
+      "https://images.pexels.com/photos/135620/pexels-photo-135620.jpeg?w=800",
+      "https://images.pexels.com/photos/135620/pexels-photo-135620.jpeg?w=800&fit=crop",
+      "https://images.pexels.com/photos/135620/pexels-photo-135620.jpeg?w=800"
+    ],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": 9,
+    "name": "Lifestyle Accessories Bundle",
+    "category": "lifestyle",
+    "price": 199.99,
+    "rating": 4.6,
+    "reviews": 167,
+    "description": "Complete lifestyle accessories bundle for the modern individual. Stylish and functional everyday essentials.",
+    "features": ["Multi-Purpose", "Premium Quality", "Versatile Design", "Gift Ready"],
+    "images": [
+      "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?w=800",
+      "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?w=800&fit=crop",
+      "https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?w=800"
+    ],
+    "inStock": true,
+    "trending": false
+  },
+  {
+    "id": 10,
+    "name": "Premium Beauty Essentials",
+    "category": "beauty",
+    "price": 139.99,
+    "rating": 4.8,
+    "reviews": 221,
+    "description": "Essential beauty products for your daily routine. Carefully selected for maximum effectiveness and luxury feel.",
+    "features": ["Dermatologist Approved", "All Skin Types", "Premium Ingredients", "Cruelty Free"],
+    "images": [
+      "https://images.pexels.com/photos/3993398/pexels-photo-3993398.jpeg?w=800",
+      "https://images.pexels.com/photos/3993398/pexels-photo-3993398.jpeg?w=800&fit=crop",
+      "https://images.pexels.com/photos/3993398/pexels-photo-3993398.jpeg?w=800"
+    ],
+    "inStock": true,
+    "trending": true
+  },
+  {
+    "id": 11,
+    "name": "Elegant Store Display",
+    "category": "lifestyle",
+    "price": 599.99,
+    "rating": 4.7,
+    "reviews": 89,
+    "description": "Premium home decor piece inspired by luxury retail displays. Adds sophistication to any space.",
+    "features": ["Modern Design", "Premium Materials", "Easy Assembly", "Adjustable"],
+    "images": [
+      "https://images.unsplash.com/photo-1759459981078-35c1befc695b?w=800",
+      "https://images.unsplash.com/photo-1759459981078-35c1befc695b?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1759459981078-35c1befc695b?w=800"
+    ],
+    "inStock": true,
+    "trending": false
+  },
+  {
+    "id": 12,
+    "name": "Beauty Essential Collection",
+    "category": "beauty",
+    "price": 119.99,
+    "rating": 4.5,
+    "reviews": 156,
+    "description": "Complete beauty essential collection with clean, elegant packaging. Perfect for gifting or personal use.",
+    "features": ["Complete Set", "Travel Friendly", "Elegant Packaging", "Long Lasting"],
+    "images": [
+      "https://images.unsplash.com/photo-1623683391575-80c0defc150a?w=800",
+      "https://images.unsplash.com/photo-1623683391575-80c0defc150a?w=800&fit=crop",
+      "https://images.unsplash.com/photo-1623683391575-80c0defc150a?w=800"
+    ],
+    "inStock": true,
+    "trending": false
+  }
+]
