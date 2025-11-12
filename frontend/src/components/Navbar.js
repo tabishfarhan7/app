@@ -45,7 +45,7 @@ const Navbar = () => {
               whileTap={{ scale: 0.95 }}
               className="text-2xl font-bold"
             >
-              <span className="text-gradient">LUXE</span>
+              <span className="text-gradient">Ahmed's</span>
             </motion.div>
           </Link>
 
