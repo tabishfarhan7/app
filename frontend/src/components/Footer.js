@@ -31,7 +31,7 @@ const Footer = () => {
   const socialLinks = [
     { icon: Facebook, href: ' https://www.facebook.com/share/17KT53Wpox/', label: 'Facebook' },
     { icon: Instagram, href: 'https://www.instagram.com/ahmeds_ecommerce/', label: 'Instagram' },
-    { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
+    { icon: Twitter, href: ' https://x.com/virtu_nest?t=76QdriNuyxvuHygcj_4ZhA&s=08', label: 'Twitter' },
     { icon: Youtube, href: 'https://youtube.com', label: 'Youtube' },
   ];
 
