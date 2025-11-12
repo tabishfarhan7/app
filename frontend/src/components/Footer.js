@@ -29,8 +29,8 @@ const Footer = () => {
   };
 
   const socialLinks = [
-    { icon: Facebook, href: 'https://facebook.com', label: 'Facebook' },
-    { icon: Instagram, href: 'https://instagram.com', label: 'Instagram' },
+    { icon: Facebook, href: ' https://www.facebook.com/share/17KT53Wpox/', label: 'Facebook' },
+    { icon: Instagram, href: 'https://www.instagram.com/ahmeds_ecommerce/', label: 'Instagram' },
     { icon: Twitter, href: 'https://twitter.com', label: 'Twitter' },
     { icon: Youtube, href: 'https://youtube.com', label: 'Youtube' },
   ];
